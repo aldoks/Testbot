@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Xondrodistrofiya bu...?",
+    "answers": [
+      "Tana, bo'yin, boshning normal rivojlanayotgan bir paytida tug‘ma oyoq qo‘l suyaklari o‘sishining orqada qolishi",
+      "kishi qo‘l oyoqni harakatga keltira olmaydi",
+      "shol kasalligi asorati",
+      "modda almashinuvi bilan bog‘liq mushak kasalligi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dunyodagi aholining necha foizi nogiron?",
+    "answers": [
+      "10%",
+      "3%",
+      "15%",
+      "20%"
+    ],
+    "correct": 0
+  }
+]
